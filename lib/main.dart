@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:shopper_demo/cart_page.dart';
-import 'package:shopper_demo/home_page.dart';
 import 'package:shopper_demo/welcome_page.dart';
 
 void main() {
